@@ -1,0 +1,23 @@
+var thePets = [
+    {
+        brand: "Acura",
+        model: "S3",
+        year: "2015",
+        ownerFN: "Aaron",
+        ownerLN: "Marks" 
+    },
+    {
+        brand: "Acura",
+        model: "S3",
+        year: "2015",
+        ownerFN: "Aaron",
+        ownerLN: "Marks"
+    },
+    {
+        brand: "Acura",
+        model: "S3",
+        year: "2015",
+        ownerFN: "Aaron",
+        ownerLN: "Marks"
+    }
+]
