@@ -1,2 +1,2 @@
 # AJAX
-Includes JSON files
+Server communication between the website and the json server
